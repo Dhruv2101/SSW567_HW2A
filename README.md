@@ -3,5 +3,5 @@
 
 Travis-CI: https://app.travis-ci.com/github/Dhruv2101/SSW567_HW2A
 
-Circle-CI: [![<Dhruv2101>](https://circleci.com/gh/Dhruv2101
+Circle-CI: ![Dhruv2101](https://circleci.com/gh/Dhruv2101
 /SSW567_HW2A.svg?style=svg)]https://app.circleci.com/pipelines/github/Dhruv2101/SSW567_HW2A?branch=main&filter=all
